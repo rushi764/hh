@@ -1,9 +1,6 @@
-/**
- * 
- */
-/**
- * @author pc
- *
- */
-module rushi {
+package com;
+class first_code{
+	public static void main(String[] args) {
+		System.out.println("hii");
+	}
 }
